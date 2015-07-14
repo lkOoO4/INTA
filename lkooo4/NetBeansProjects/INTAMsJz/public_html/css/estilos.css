@@ -1,0 +1,33 @@
+header{
+    background-color: #2c3e50;     
+    color:#fff;
+}
+
+.main{
+    background-color: #f2f2f2;
+}
+
+.color1{
+    background: #34495e;
+    color:#fff;
+}
+
+aside{
+    background-color: #285AA0;
+    color:#fff;
+}
+
+footer{
+    background-color: #7BAAC1;
+    color:#fff;
+    
+}
+
+#logo{
+    position: relative;
+    top: 10px;
+}
+
+.subtexto{
+    font-size: medium;
+}
